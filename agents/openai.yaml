@@ -1,0 +1,4 @@
+interface:
+  display_name: "视频贴片导演"
+  short_description: "为已有字幕的口播视频制作透明信息贴片"
+  default_prompt: "Use $unclesix-video-stickers to verify my video has subtitles, plan subtitle-backed overlays, preview them on real frames, and animate them with Remotion."
